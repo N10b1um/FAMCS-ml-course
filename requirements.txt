@@ -73,6 +73,8 @@ jupyterlab==4.5.5
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.28.0
 jupyterlab_widgets==3.0.16
+kagglehub==1.0.0
+kagglesdk==0.1.16
 kiwisolver==1.4.9
 langtable==0.0.69
 libcomps==0.1.23
@@ -112,6 +114,7 @@ productmd==1.50
 prometheus_client==0.24.1
 prompt_toolkit==3.0.52
 propcache==0.4.1
+protobuf==7.34.0
 psutil==7.2.2
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -177,6 +180,7 @@ threadpoolctl==3.6.0
 tinycss2==1.4.0
 torbrowser-launcher==0.3.9
 tornado==6.5.4
+tqdm==4.67.3
 traitlets==5.14.3
 typing_extensions==4.15.0
 tzdata==2025.3
